@@ -1,10 +1,28 @@
 ---
 layout: page
-title: Courses Taken
+title: Course Work
 permalink: /courses/
 
-tagline: "Loved it? Download Gravity"
+tagline: "From North Carolina to Montana to New Zealand"
 ---
+
+**University of North Carolina at Chapel Hill** *Class of 2017*
+
+* Environment and Society
+* Water Resources and Human Rights
+* 
+
+**Flathead Lake Biological Station - University of Montana** *Summer 2014*
+
+* Field Ecology
+* Stream Ecology
+
+**University of Auckland, New Zealand** *Fall 2015*
+
+* Cities and Urbanism
+* Geography of the Human Environment
+* Global Dimensions of Environmental Change
+
 
 
 <br>
