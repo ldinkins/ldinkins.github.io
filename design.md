@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
+title: Resume   
+permalink: /resume/
 category: "design"
 tagline: "it's all about perception."
 ---

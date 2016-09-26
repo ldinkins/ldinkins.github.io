@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: Courses Taken
+permalink: /courses/
 
 tagline: "Loved it? Download Gravity"
 ---
