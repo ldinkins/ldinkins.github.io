@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What I've Learned in INLS 161 So Far"
-date:   2016-03-30 19:45:31 +0530
+date:   2016-09-25 19:45:31 +0530
 categories: jekyll update
 ---
 
@@ -13,7 +13,12 @@ So far I think I have a great grasp on the benefits of using an open source webs
 I had never even heard of GitHub before this course. 
 I'm excited to learn more about making your own website, as well as database design and maintence.
 
+
 {% highlight ruby %}
 cd #sakjfd
 {% endhighlight %} 
 
+Previously I only had experience with website design using WordPress. 
+WordPress is a very easy platform but doesn't allow for much customization. 
+Learning how to use Jekyll sites on cloudnine and github is much more useful. 
+This platform even supports emojis. 
