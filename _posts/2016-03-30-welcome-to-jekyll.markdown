@@ -13,12 +13,19 @@ So far I think I have a great grasp on the benefits of using an open source webs
 I had never even heard of GitHub before this course. 
 I'm excited to learn more about making your own website, as well as database design and maintence.
 
+# Commands To Remember
+These are the commands I have learned as well as the ones I have trouble remembering.
 
 {% highlight ruby %}
-cd #sakjfd
+cd  - move into a different directory
+pwd - show current directory
+cd .. - moves up a directory 
+touch - creates a new entry
 {% endhighlight %} 
 
 Previously I only had experience with website design using WordPress. 
 WordPress is a very easy platform but doesn't allow for much customization. 
 Learning how to use Jekyll sites on cloudnine and github is much more useful. 
-This platform even supports emojis. 
+Here is a website I designed using WordPress: [Epsilon Eta](http://epsiloneta.web.unc.edu/). 
+
+
