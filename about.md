@@ -4,114 +4,44 @@ title : About Me
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<h2>Lily Dinkins</h2>
+<p>Senior, Environmental Sciece B.S. and Geography B.A.</p>
 <br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Posting</strong>
-  </div>
-<p>  <div class="manual-content">
-
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <pre>---
-layout: post | default | page
-title:  String<span class="hint"> Post Title</span>
-date:   Time Stamp
-categories: String | Array of Strings<span class="hint"> Category / Categories </span>
----</pre>
-      </div>
-      <div class="example">
-
-        <pre>---
-layout: post
-title:  "The One with the Blackout"
-date:   2016-03-30 19:45:31 +0530
-categories: ["life", "friends"]
----</pre>
-      </div>
-
-
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Pages</strong>
-  </div>
-<p>  <div class="manual-content">
-
-      - Create a .md file in the root directory.<br>
-      - Name the file with the desired page link name.<br>  <code>about.md</code><br><code>design.md</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <pre>---
-layout: page
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
----</pre>
-      </div>
-      <div class="example">
-
-        <pre>---
-layout: page
-title:  "Science"
-permalink:   /science/
-tagline : "Humanity is overrated."
----</pre>
-      </div>
-
-
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Archives/ Category Pages</strong><br>
-</div><br>
-<div class="archiveIntro">
-  <p>
-    Introducing <strong>Archive Pages</strong>.<br></p>
-  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
-</span>
-</div>
+<center><p ><strong><span class="manual">From</span> New York City</strong></p></center>
 <br>
 
-<p>  <div class="manual-content">
+I grew up in Manhattan on the upper upper west side. My mom is from Florida and my Dad is from North Carolina. 
+They both graduated from UNC in 1982 and moved to the Lower East Side together a few years later. 
+In 1990 they married and moved to Harlem where we have lived ever since. Below is an image of my block, Tiemann Place.
 
-      - Create a .md file in the root directory.<br>
-      - Name the file. Preferred name will be the name of the category<br>  <code>life.md</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-    <pre>---
-layout: archive<span class="hint"> Archive Page Layout</span>
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint"> Tagline for the page</span>
-category : String <span class="hint"> Name of the category of which the page will show posts.</span>
----</pre>
-      </div>
-      <div class="example">
 
-        <pre>---
-layout: archive
-title:  "Design"
-permalink : "Design"
-category: "design"
-tagline: "It's all about perception."
----</pre>
-    </div><br>
-  </div>
-</p>
-</div>
+![alt text](https://upload.wikimedia.org/wikipedia/commons/9/93/Tiemann_Place.jpg "Tiemann Place")
+
+
+I went to the Bronx High School of Science where I ran cross country, indoor track and outdoor track. 
+
+
+<br>
+<center><p ><strong><span class="manual">Living in</span> Chapel Hill</strong></p></center>
+<br>
+
+I moved to Chapel Hill to begin university in August 2013. I knew from the beginning that I wanted to study Environmental Science.
+Through the requirements for that major, I discovered how much I enjoyed using ArcGIS and so I declared a second major, Geography. 
+
+<br>
+<center><p ><strong><span class="manual">Semester abroad in</span> Auckland, NZ</strong></p></center>
+<br>
+
+In fall of 2015 I spend the semester studying in Auckland, New Zealand. 
+I lived in a flat right by the Uni in a neighborhood called Parnell with two Kiwi boys and a girl from Singapore.
+
+![alt text](http://www.accommodation.auckland.ac.nz/en/ac-visitors/ac-summer-2/ac-visiting-students/_jcr_content/par/contentblock_6/par/textimage/image.img.jpg/1466370350691.jpg "Carlaw")
+
+In September I spent my two week spring break traveling around Australia and after my semester ended I road tripped around the South Island for a month.
+New Zealand has the most beautiful hikes I've ever been on. I could easily spend a whole year backpacking every mountain in the country and never be bored by the incredible views.
+One of my favorite hikes was called Roy's Peak and began in Wakanka. Below is a photo of me at the top of Roy's Peak.
+
+![alt text](https://scontent-iad3-1.xx.fbcdn.net/t31.0-8/12366003_10156325747775440_5125047167365402271_o.jpg "Roys")
+
+I also love the Lord of the Rings movies and they were almsot entirely filmed in New Zealand.
+I got to visit Hobbiton and Mount Doom!
