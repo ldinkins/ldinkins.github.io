@@ -16,3 +16,22 @@ github_username:  ldinkins
 
 # Build settings
 markdown: kramdown
+
+---
+galleries:
+ # gallery number one
+ 1:
+   # row one in gallery one
+   -
+     - { url: 'https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11237922_10205645286356403_7024456802323616440_n.jpg?oh=864d776737c8ab9b98936259f303f561&oe=586FB931', alt: 'alt 1'}
+   # row two in gallery one
+   -
+     - { url: '2.jpg', alt: 'alt 2'}
+     - { url: '3.jpg', alt: 'alt 3'}
+
+ # gallery number two
+ 2:
+  # row one in gallery two
+   -
+     - { url: '4.jpg', alt: 'alt 4'}
+     - { url: '5.jpg', alt: 'alt 5'}
