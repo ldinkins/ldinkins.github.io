@@ -39,9 +39,12 @@ I lived in a flat right by the Uni in a neighborhood called Parnell with two Kiw
 
 In September I spent my two week spring break traveling around Australia and after my semester ended I road tripped around the South Island for a month.
 New Zealand has the most beautiful hikes I've ever been on. I could easily spend a whole year backpacking every mountain in the country and never be bored by the incredible views.
-One of my favorite hikes was called Roy's Peak and began in Wakanka. Below is a photo of me at the top of Roy's Peak.
+One of my favorite hikes was called Roy's Peak in Wakanka. Below is a photo of me at the top of Roy's Peak.
 
 ![alt text](https://scontent-iad3-1.xx.fbcdn.net/t31.0-8/12366003_10156325747775440_5125047167365402271_o.jpg "Roys")
 
 I also love the Lord of the Rings movies and they were almsot entirely filmed in New Zealand.
 I got to visit Hobbiton and Mount Doom!
+
+While in New Zealand my friends and I created a food instagram to highlight the amazing resturants we went to. Check that out!
+ [Auckward Foodies](https://www.instagram.com/auckwardfoodies/?hl=en).
