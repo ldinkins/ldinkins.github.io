@@ -20,4 +20,4 @@ We also had a problem where the script would not work unless mysql was initializ
 We fixed this by using the command `mysql-ctl start` at the beginning of our script. I am excited to learn more about the possible applications of this database.
 It's very cool to know how to create one but since I have no experience with mysql I don't really know what the possibilities are in analyzing it now. 
 
-Here is our (respository)[https://github.com/ldinkins/malily5.git].
+Here is our [respository](https://github.com/ldinkins/malily5.git).
