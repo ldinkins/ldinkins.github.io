@@ -3,8 +3,19 @@ layout: page
 title: Community
 permalink: /community/
 
-tagline: "3D Design Workshop"
+tagline: "3D Design Workshop and Solar Farm Tour"
 ---
+
+
+*Second Community Engagement*
+
+***
+
+
+
+*First Community Engagement*
+
+***
 
 On Sunday October 16th I attended a 3D Design Workshop that taught [Tinkercad](https://www.tinkercad.com/) in Kenan Science Library Makerspace. 
 Tinkercad is an online repository and design space that, similarly to Github is open source.
