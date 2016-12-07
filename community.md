@@ -3,14 +3,39 @@ layout: page
 title: Community
 permalink: /community/
 
-tagline: "3D Design Workshop and Solar Farm Tour"
----
 
+tagline: "3D Design Workshop and Solar Farm Tour"
+
+
+---
 
 *Second Community Engagement*
 
 ***
+In early Novemeber I took a tour of a solar farm in Chapel Hill. The farm is owned by [Strata Solar](http://www.stratasolar.com/) and is located on land rented from Vickers Farm. 
+Strata was one of the first utility scale solar companies in North Carolina. The [Vickers Project](http://www.stratasolar.com/spotlight/vickers-2-7-mw/) generates 2.6 megawatts of energy that are fed directly into the grid 
+through Duke Power. 
 
+**Some of the 9,500 panels on site**
+![panels](/Images/panels.jpg)
+
+During the tour, two Strata team members discussed what it takes to connect to the grid and how they find land to use for their projects. 
+At the current stage in the solar economy, any farm under 2.5 Mw is simply not feasible. This takes dozens of acres of land and the land should be south facing as well as relatively flat. 
+Vickers was one of their earlier projects so the slope is not perfectly desirable because they hadn't realized what they needed yet. 
+Strata is about to build it's first rotating solar farm, where the panels follow the sun throughout the day to generate maximum energy.
+One of the issues that solar has in penetrating the market is that there is no baseload. Energy storage is the next frontier in terms of solar development. 
+Right now, solar energy can only be used during the day creating a nightime lag on the grid. 
+Luckily, even in the current political climate, North Carolina has relatively progressive policies for renewable energy.
+The Strata workers explained to us that one of the things that keep them in business are Power Purchase Agreements. 
+PPAs ensure that untilities will buy solar from a developer at a fixed rate for given period of time, usually 10-25 years. 
+This makes solar investments relatively low risk and allows for rapid development. 
+North Carolina just passed Colorado to become the state with the second most megawatts of solar installed in the country!
+One interesting thing I learned was that once the panels are installed, obviously a huge upfront cost, the biggest cost comes from site maintanence. 
+The many acres have to be mowed at least once a month. They tried to use sheep at one of their sites but all the sheep got quickly eaten by coyotes. 
+I know other solar companies have managed to use sheep but perhaps they were further away from wooded areas? Strata also considered goats but apparently they jump all over the panels and create all sorts of technical issues. 
+
+**My friends and I after the tour**
+![images](/Images/group.JPG)
 
 
 *First Community Engagement*
